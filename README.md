@@ -1,3 +1,5 @@
-# bookbot
+# Build a Bookbot in Python
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Build a real command-line application in Python that does data analysis on text files.
+
+This is the starter code used in Boot.dev's [Build a Bookbot in Python](https://www.boot.dev/courses/build-bookbot-python) course.
