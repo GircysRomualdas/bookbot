@@ -14,7 +14,7 @@ This is the starter code used in Boot.dev's [Build a Bookbot in Python](https://
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 ---
 
